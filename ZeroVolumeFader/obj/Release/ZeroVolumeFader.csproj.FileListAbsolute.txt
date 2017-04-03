@@ -1,0 +1,4 @@
+C:\Users\Zouz\Documents\Visual Studio 2017\Projects\ZeroVolumeFader\ZeroVolumeFader\bin\Release\ZeroVolumeFader.dll
+C:\Users\Zouz\Documents\Visual Studio 2017\Projects\ZeroVolumeFader\ZeroVolumeFader\bin\Release\ZeroVolumeFader.pdb
+C:\Users\Zouz\Documents\Visual Studio 2017\Projects\ZeroVolumeFader\ZeroVolumeFader\obj\Release\ZeroVolumeFader.dll
+C:\Users\Zouz\Documents\Visual Studio 2017\Projects\ZeroVolumeFader\ZeroVolumeFader\obj\Release\ZeroVolumeFader.pdb

@@ -1,0 +1,8 @@
+C:\Users\Zouz\Documents\Visual Studio 2017\Projects\ZeroVolumeFader\ZeroVolumeFader.CommandLine\bin\Release\ZeroVolumeFader.CommandLine.exe.config
+C:\Users\Zouz\Documents\Visual Studio 2017\Projects\ZeroVolumeFader\ZeroVolumeFader.CommandLine\bin\Release\ZeroVolumeFader.CommandLine.exe
+C:\Users\Zouz\Documents\Visual Studio 2017\Projects\ZeroVolumeFader\ZeroVolumeFader.CommandLine\bin\Release\ZeroVolumeFader.CommandLine.pdb
+C:\Users\Zouz\Documents\Visual Studio 2017\Projects\ZeroVolumeFader\ZeroVolumeFader.CommandLine\bin\Release\ZeroVolumeFader.dll
+C:\Users\Zouz\Documents\Visual Studio 2017\Projects\ZeroVolumeFader\ZeroVolumeFader.CommandLine\bin\Release\ZeroVolumeFader.pdb
+C:\Users\Zouz\Documents\Visual Studio 2017\Projects\ZeroVolumeFader\ZeroVolumeFader.CommandLine\obj\Release\ZeroVolumeFader.CommandLine.csprojResolveAssemblyReference.cache
+C:\Users\Zouz\Documents\Visual Studio 2017\Projects\ZeroVolumeFader\ZeroVolumeFader.CommandLine\obj\Release\ZeroVolumeFader.CommandLine.exe
+C:\Users\Zouz\Documents\Visual Studio 2017\Projects\ZeroVolumeFader\ZeroVolumeFader.CommandLine\obj\Release\ZeroVolumeFader.CommandLine.pdb
